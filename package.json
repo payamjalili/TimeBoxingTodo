@@ -1,5 +1,6 @@
 {
   "name": "timeboxing-todo",
+  "homepage": "https://payamjalili.github.io/TimeBoxingTodo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
