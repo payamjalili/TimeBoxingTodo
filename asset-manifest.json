@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.c62d912b.js",
-    "static/js/787.e662bdbe.chunk.js": "/static/js/787.e662bdbe.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.c62d912b.js.map": "/static/js/main.c62d912b.js.map",
-    "787.e662bdbe.chunk.js.map": "/static/js/787.e662bdbe.chunk.js.map"
+    "main.css": "/TimeBoxingTodo/static/css/main.073c9b0a.css",
+    "main.js": "/TimeBoxingTodo/static/js/main.2283ed0a.js",
+    "static/js/787.e662bdbe.chunk.js": "/TimeBoxingTodo/static/js/787.e662bdbe.chunk.js",
+    "static/media/logo.svg": "/TimeBoxingTodo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TimeBoxingTodo/index.html",
+    "main.073c9b0a.css.map": "/TimeBoxingTodo/static/css/main.073c9b0a.css.map",
+    "main.2283ed0a.js.map": "/TimeBoxingTodo/static/js/main.2283ed0a.js.map",
+    "787.e662bdbe.chunk.js.map": "/TimeBoxingTodo/static/js/787.e662bdbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c62d912b.js"
+    "static/js/main.2283ed0a.js"
   ]
 }
